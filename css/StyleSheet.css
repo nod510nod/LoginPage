@@ -1,0 +1,38 @@
+﻿            .auto-style7 {
+            font-size: small;
+        }
+
+        .test{
+            max-width: 330px;
+            padding: 15px;
+            margin: 0 auto;
+            margin-top: 5%;
+        }
+
+        .test2{
+                margin-left: 16%;
+    margin-top: 3%;
+        }
+
+#TextBoxEmail {
+        margin-left: 29px;
+
+}
+#TextBoxPass{
+        margin-top: -54px;
+    margin-left: 72PX;
+}
+
+#formIn {
+        margin: auto;
+    width: 60%;
+    border: 3px solid #0071CC;
+    padding: 10px;
+}
+
+#confrim{
+      margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+       
